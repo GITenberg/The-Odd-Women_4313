@@ -1,0 +1,39 @@
+_repo: The-Odd-Women_4313
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gissing, George
+    alias: Gissing, George Robert
+    birthdate: 1857
+    deathdate: 1903
+    gutenberg_agent_id: '641'
+    url: http://www.gutenberg.org/2009/agents/641
+    wikipedia: http://en.wikipedia.org/wiki/George_Gissing
+description: "The Odd Women is an 1893 novel by the English novelist George Gissing.\
+  \ Its themes are the role of women in society, marriage, morals and the early feminist\
+  \ movement.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2003-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4313'
+  wikidata: Q7754692
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Single women -- Fiction'
+- !lcsh 'Psychological fiction'
+- !lcsh 'London (England) -- Fiction'
+- !lcsh 'Women -- England -- Fiction'
+- !lcsh 'Middle class women -- Fiction'
+- !lcsh 'Sisters -- Fiction'
+- !lcsh 'Domestic fiction'
+- !lcsh 'Women -- Employment -- Fiction'
+- !lcsh 'English fiction -- 19th century'
+- GITenberg
+title: The Odd Women
+url: http://www.gutenberg.org/ebooks/4313
+wikipedia:
+- https://en.wikipedia.org/wiki/The_Odd_Women
